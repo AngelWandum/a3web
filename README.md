@@ -16,14 +16,20 @@ Workload Distribution Plan (each member have their own html and css based on the
 
 Xin Wen - ( Due by 19th to 22nd November)
 
-Creating and modifying Navigation Bar and Menu system/Design in HTML and CSS.
-Logo Design
-General Content for designated page below.
+1.Creating and modifying Navigation Bar and Menu system/Design in HTML and CSS.
+
+2.Logo Design
+
+3.General Content for designated page below.
+
 Prashant Balachandar - (Due by 20th November)
 
-Responsive design for all pages and contents.
-Proofreading/Validation of the pages.
-General Content for designated page below.
+1.Responsive design for all pages and contents.
+
+2.Proofreading/Validation of the pages.
+
+3.General Content for designated page below.
+
 Jenish ShaleenKumar Shah - (Due by 21st November)
 
 Javascript with a button called "Get Started" to let the user apply to the company, through Career page.
