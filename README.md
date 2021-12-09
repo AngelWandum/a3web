@@ -7,6 +7,7 @@ Prashant Balachandar
 Jenish Shaleenkumar Shah
 Angel wandum
 Aesha Deveshkumar Dave
+
 Workload Distribution Plan (each member have their own html and css based on their tasks described below)
 
 Xin Wen - ( Due by 19th to 22nd November)
