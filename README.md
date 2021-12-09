@@ -3,9 +3,13 @@ GEOM 101 Group Web Design Assignment 3
 Group members
 
 Xin Wen
+
 Prashant Balachandar
+
 Jenish Shaleenkumar Shah
+
 Angel wandum
+
 Aesha Deveshkumar Dave
 
 Workload Distribution Plan (each member have their own html and css based on their tasks described below)
